@@ -33,11 +33,13 @@ body{
 
 .flipped{
     background-color: rgb(209, 209, 209);
+    text-align: center;
 }
 
 .found{
     background-color:rgb(255, 255, 255);
     border-color: white;
+    text-align: center;
 }
 
 .classueberschrift{
