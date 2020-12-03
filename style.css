@@ -14,7 +14,6 @@ body{
     font-weight: bold;
     font-stretch: normal;
     font-family: fantasy;
-    text-align: center;
     width: auto;
     height: auto;
     margin: 1%;
@@ -33,13 +32,11 @@ body{
 
 .flipped{
     background-color: rgb(209, 209, 209);
-    text-align: center;
 }
 
 .found{
     background-color:rgb(255, 255, 255);
     border-color: white;
-    text-align: center;
 }
 
 .classueberschrift{
